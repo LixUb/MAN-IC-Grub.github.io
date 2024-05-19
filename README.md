@@ -1,8 +1,8 @@
 # MAN-IC-BATAM-boot-loader
 
-### Manually
+###Debian/Ubuntu
 
-#Debian/Ubuntu
+### Manually
 - Clone this repository
 ```
 git clone https://github.com/LixUb/MAN-IC-Grub.github.io.git
