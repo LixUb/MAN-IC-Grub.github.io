@@ -2,6 +2,7 @@
 
 ### Manually
 
+#Debian/Ubuntu
 - Clone this repository
 ```
 git clone https://github.com/LixUb/MAN-IC-Grub.github.io.git
