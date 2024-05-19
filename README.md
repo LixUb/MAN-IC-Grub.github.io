@@ -1,6 +1,6 @@
 # MAN-IC-BATAM-boot-loader
 
-###Debian/Ubuntu
+## Debian/Ubuntu
 
 ### Manually
 - Clone this repository
