@@ -16,6 +16,7 @@ sudo cp -ruv ./MAN-IC-Grub.github.io-main /boot/grub/themes/
 ```
 GRUB_THEME=/boot/grub/themes/MAN-IC-Grub.github.io-main/theme.txt
 ```
+~follow @rayyhfz_
 - Update your live grub config by running
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg
