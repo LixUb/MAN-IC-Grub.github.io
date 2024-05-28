@@ -21,4 +21,4 @@ GRUB_THEME=/boot/grub/themes/MAN-IC-Grub.github.io-main/theme.txt
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo update-grub
 ```
-~ follow @rayyhfz_
+- follow @rayyhfz_
